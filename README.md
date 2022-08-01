@@ -1,5 +1,5 @@
 
-# MODUL 1 DAN 2 Laporan
+# LAPORAN MODUL 1 DAN 2 
 
 ###### Nama : Abdi bakar djallu
 ###### Kelas : XII RPL 1
